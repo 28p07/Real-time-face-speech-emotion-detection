@@ -15,5 +15,5 @@ Description:
 "eye_model.json" -- eye drowsiness detection model json file
 "eye model gui.py"" --python file to implement eye drowsiness detection model
 
-harcasade files -- xml files used in OpenCV to detect specified objects
+harcasade files -- xml files used in OpenCVlibrary to detect specified objects
 
